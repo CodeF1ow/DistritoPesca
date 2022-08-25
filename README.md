@@ -9,7 +9,7 @@
 
  https://github.com/daemonforge/Dayz-HeroesAndBandits
 
-# Installation
+# Install
 + Unpacking mod, packing again to get on Steam Workshop by tracking your own key.
 + Server owners need to add following actions in **actions.json**
 ```
